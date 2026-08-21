@@ -2,7 +2,7 @@
 
 
 
-A practical home cybersecurity lab built with T-Pot, Ubuntu Server, Docker, VirtualBox, and a Windows 11 host. A honeypot is a safe, fake system designed to lure attackers away from real networks. It logs every action an intruder takes without risking actual company data. In this lab, we deploy Cowrie, a popular low-interaction SSH honeypot that logs brute-force password attempts and shell commands.
+A practical home cybersecurity lab built with T-Pot, Ubuntu Server, Docker, VirtualBox, and a Windows 11 host. A honeypot is a safe, fake system designed to lure attackers away from real networks. It logs every action an intruder takes without risking actual company data. In this lab, we deploy T-Pot, a popular SSH honeypot that logs brute-force password attempts and shell commands.
 
 
 
